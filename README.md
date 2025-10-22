@@ -101,6 +101,19 @@ Iterating and varying prompts is essential for exploring style and storytelling.
 output:
 Text:
 On a quiet hilltop, an old clockmaker built a tiny workshop filled with ticking wonders. One day, he discovered a broken watch that could pause time for exactly one minute. Curious and cautious, he used it to rescue a falling bird midair. Word of his strange power spread, but he chose to live in silence, fixing time for others—never for himself
+
+1)Simple Prompt Version A group of friends spending a fun day at the beach.
+
+
+https://github.com/user-attachments/assets/15f497de-a60f-4cfa-a6a1-01b41d81a07b
+
+
+2)Refined Prompt Version A group of four friends laughing and playing at a sunny beach. Two are building a sandcastle near the shore, one is running toward the waves, and another is taking photos. The sea sparkles under the bright sunlight, with umbrellas and surfboards in the background. The scene feels warm, happy, and summery.
+
+
+https://github.com/user-attachments/assets/029dcbab-2ee7-4e54-bd67-07d2156dc627
+
+
 # Result: The Prompt of the above task executed successfully
 
 
